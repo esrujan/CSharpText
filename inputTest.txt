@@ -1,0 +1,10 @@
+Canada	Waterloo	Male	1002
+France	Paris	Female	2000
+India	Pune	Male	3553
+Canada	Kitchener	Female	830
+France	Lyon	Male	1700
+India	Pune	Female	4500
+Canada	Waterloo	Female	1688
+South Africa	Durban	Female	2450
+India	Pune	Male	5500
+South Africa	Capetown	Male	1000
